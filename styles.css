@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero {
+    background: url('../images/hero.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: white;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+.modal-body {
+    padding: 2rem;
+}
